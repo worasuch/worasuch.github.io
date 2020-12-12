@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-description: Chinese name is 苏查尔
+description: Chinese name is 苏查尔 (Su Char Er)
 
 profile:
   align: right
@@ -61,7 +61,7 @@ My master thesis is “An Artificial Hormone System for Adaptable Locomotion in 
 ### Education
 <br>
 **2005-2007, High school**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manchasuksa School, Khon Kaen, Thailand.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mancha Suksa School, Khon Kaen, Thailand.<br>
 
 **2008-2011, B.Eng. in Electrical and Communication Engineering**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mahidol University, Nakorn Pathom, Thailand.<br>
