@@ -10,6 +10,13 @@ profile:
   address: >
     <p>Photo: FIBO, 2018</p>
 
+profile2:
+  align2: right
+  image2: MU2011.jpg
+  address2: >
+    <p>Photo: MU, 2011</p>
+
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

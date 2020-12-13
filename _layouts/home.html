@@ -22,8 +22,22 @@ layout: default
           {{ page.profile.address }}
         </div>
       {% endif %}
+
+<!-- TODO add profile2-->
+      {% if page.profile2.image2 %}
+        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile2.image2 | prepend: '/assets/img/' | relative_url }}">
+      {% endif %}
+      {% if page.profile2.address2 %}
+        <div class="address">
+          {{ page.profile2.address2 }}
+        </div>
+      {% endif %}
+
+
     </div>
     {% endif %}
+
+
 
     <div class="clearfix">
       {{ content }}
