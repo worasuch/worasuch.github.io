@@ -160,6 +160,29 @@ a, table.table a {
   color: var(--global-text-color);
 }
 
+
+// Education
+
+.education table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.education table th {
+  color: var(--global-text-color);
+}
+
+// Experience
+
+.experience table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.experience table th {
+  color: var(--global-text-color);
+}
+
 // Social (bottom)
 
 .social {
@@ -177,7 +200,6 @@ a, table.table a {
     font-size: 0.8rem;
   }
 }
-
 
 // Footer
 footer.fixed-bottom {
