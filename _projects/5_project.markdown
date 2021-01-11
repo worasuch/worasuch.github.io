@@ -30,4 +30,3 @@ The Braille Notetakers are personal digital assistants for individuals who are b
 <div class="caption">
     
 </div>
-
