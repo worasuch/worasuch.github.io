@@ -10,6 +10,9 @@
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
   {% endif %}
+  {% if entry.status %}
+    <abbr class="badge">{{entry.status}} </abbr>
+  {% endif %}
   </div>
 
   <div id="{{entry.key}}" class="col-sm-8">
@@ -57,9 +60,9 @@
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
-      {% if entry.year %}
+<!--       {% if entry.year %}
         {{entry.year}}
-      {% endif %}
+      {% endif %} -->
       </div>
     {% endif %}
 
