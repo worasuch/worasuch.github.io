@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 I am a 2nd year Ph.D. student with <a href="http://neutron.manoonpong.com/" target="_blank">NEUTRON Laboratory</a> at the Nanjing University of Aeronautics and Astronautics (NUAA) advised by Prof. <a href="http://manoonpong.com/" target="_blank">Poramate Manoonpong</a>  
 
-My area of interests are Machine (Reinforcement) learning for robotics, Mobile robot, Bioinspired robot, and the high-level cognitive robotics which provide the robot more intelligent. My goal is to bring the robot out of the lab into the real world and make it really work in the wild. 
+My area of interests are Machine (Reinforcement) learning for robotics, Mobile robot, Bioinspired robot, and high-level cognitive robotics which provide the robot more intelligence. My goal is to bring the robot out of the lab into the real world and make it really work in the wild. 
 
 I earned M.Eng. in Robotics and Automation from Institute of Field Robotics (FIBO), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand. I also hold a Bachelor of Engineering in Electrical and Communication Engineering from Mahidol University, Thailand.
 
