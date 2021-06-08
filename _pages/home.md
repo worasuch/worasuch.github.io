@@ -13,9 +13,9 @@ profile:
 
 profile2:
   align2: right
-  image2: MU2011.jpg
+  image2: MU2012.jpeg
   address2: >
-    <p>Photo: MU, 2011</p>
+    <p>Photo: MU, 2012</p>
 
 education: true
 experience: true
