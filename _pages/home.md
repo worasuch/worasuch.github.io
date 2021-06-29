@@ -13,9 +13,9 @@ profile:
 
 profile2:
   align2: right
-  image2: MU2012.jpeg
+  image2: MU2011.jpg
   address2: >
-    <p>Photo: MU, 2012</p>
+    <p>Photo: MU, 2011</p>
 
 education: true
 experience: true
@@ -32,5 +32,7 @@ My area of interests are Machine (Reinforcement) learning for robotics, Mobile r
 I earned M.Eng. in Robotics and Automation from Institute of Field Robotics (FIBO), King Mongkut’s University of Technology Thonburi (KMUTT), Thailand. I also hold a Bachelor of Engineering in Electrical and Communication Engineering from Mahidol University, Thailand.
 
 My master thesis is “An Artificial Hormone System for Adaptable Locomotion in a Sea Turtle-Inspired Robot” that proposes using an artificial hormone system as a mechanism which responds to external environmental changes and alters a sea-turtle inspired robot behaviours to move with energy efficiency, supervised by Dr. <a href="http://fibo.kmutt.ac.th/fibo/dr-pitiwut/" target="_blank">Pitiwut Teerakittikul</a> and also got the help from peoples in his laboratory <a href="http://fibo.kmutt.ac.th/fibo/research/fibo-laboratory/bear-lab/" target="_blank">Bio-Inspired & Educational Robotics Lab</a>.
+
+Welcome!
 
 
